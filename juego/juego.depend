@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1694912314 source:c:\users\oem\desktop\imagees para juego\juego\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"movimiento.h"
+	"limites.h"
+	"naveyvida.h"
+	"meteoro.h"
+
+1694911004 c:\users\oem\desktop\imagees para juego\juego\movimiento.h
+
+1694835200 c:\users\oem\desktop\imagees para juego\juego\limites.h
+
+1694928649 c:\users\oem\desktop\imagees para juego\juego\naveyvida.h
+
+1694928983 c:\users\oem\desktop\imagees para juego\juego\meteoro.h
+
